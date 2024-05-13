@@ -1,6 +1,6 @@
 # ExpO Framework
 
-## Expose: ExpO REST API Server
+## Expose: ExpO API Server
 An API service for performing transformation operations over Ontology Driven Conceptual Models.
 
 The server is running [here](https://expose.eng.unibz.it/health).
@@ -8,7 +8,6 @@ The server is running [here](https://expose.eng.unibz.it/health).
 If you are interested to know more, feel free to open an issue to provide feedback on the project or reach our team members for more specific cases:
 
 * [Elena Romanenko](https://github.com/mozzherina)
-* [Konstantin Romanenko](https://github.com/astricus)
 * [Diego Calvanese](http://www.inf.unibz.it/~calvanese/)
 * [Giancarlo Guizzardi](https://people.utwente.nl/g.guizzardi)
 
@@ -82,6 +81,5 @@ ___
 Please, refer to the [PURL](https://purl.org/expo/expose) and
 cite the paper: 
 
-Romanenko, E., Calvanese, D., Guizzardi, G.: ExpO: A Framework for Explaining
-Ontology-Driven Conceptual Models. (2023) Manuscript submitted for publication.
+Romanenko, E., Calvanese, D., Guizzardi, G.: ExpO: Towards Explaining Ontology-Driven Conceptual Models. (2024) [DOI](https://doi.org/10.1007/978-3-031-59468-7_3)
 

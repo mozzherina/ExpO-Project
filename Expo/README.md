@@ -2,7 +2,7 @@
 
 ## Expo Web Application
 
-A web interface for querying ExpO REST API Server. The application is running [here](https://expo.eng.unibz.it).
+A web interface for querying ExpO API Server. The application is running [here](https://expo.eng.unibz.it).
 
 If you are interested to know more, feel free to open an issue to provide feedback on the project or reach our team members for more specific cases:
 
@@ -34,5 +34,4 @@ ___
 Please, refer to the [PURL](https://purl.org/expo) and
 cite the paper: 
 
-Romanenko, E., Calvanese, D., Guizzardi, G.: ExpO: A Framework for Explaining
-Ontology-Driven Conceptual Models. (2023) Manuscript submitted for publication.
+Romanenko, E., Calvanese, D., Guizzardi, G.: ExpO: Towards Explaining Ontology-Driven Conceptual Models. (2024) [DOI](https://doi.org/10.1007/978-3-031-59468-7_3)
