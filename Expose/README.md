@@ -74,12 +74,3 @@ docker-compose --compatibility up -d
 Your GitHub Profile / Settings / Developer Settings / Fine-grained Tokens / 
 Generate new token.
 3. In `env.example` change `GIT_USER` and `GIT_TOKEN` to your own values.
-
-___
-## If you want to cite this work
-
-Please, refer to the [PURL](https://purl.org/expo/expose) and
-cite the paper: 
-
-Romanenko, E., Calvanese, D., Guizzardi, G.: ExpO: Towards Explaining Ontology-Driven Conceptual Models. (2024) [DOI](https://doi.org/10.1007/978-3-031-59468-7_3)
-
