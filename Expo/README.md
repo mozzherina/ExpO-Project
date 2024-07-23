@@ -27,11 +27,3 @@ docker-compose up -d
 ```
 
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
-
-___
-## If you want to cite this work
-
-Please, refer to the [PURL](https://purl.org/expo) and
-cite the paper: 
-
-Romanenko, E., Calvanese, D., Guizzardi, G.: ExpO: Towards Explaining Ontology-Driven Conceptual Models. (2024) [DOI](https://doi.org/10.1007/978-3-031-59468-7_3)
